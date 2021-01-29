@@ -1,0 +1,24 @@
+.TextEditor {
+    width:50%;
+    height: 500px;
+    border: 1px solid grey;
+    margin: auto;
+}
+
+.header{
+    height:35px;
+    border: 1px solid grey;
+    display: flex;
+    padding-left: 10px;
+}
+
+.editorButton {
+    width: 24px;
+    height: 24px;
+    margin: auto 0;
+    font-weight: bold;
+}
+
+.editor {
+    height: 100%;
+}
